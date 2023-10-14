@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html><DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Meine Webseite </title>
+</head>
+<body>
+
+    <h1>
+        Das bin Ich
+    </h1>
+    <ul>
+        <li>Matilda Radanovic</li>
+        <li>Geboren: Kroatien, Split, 21.01.1982.</li>
+        <li>Wohnort : Celle</li>
+    </ul>
+
+    <h2>Lieblings essen</h2>
+        
+         <ul>
+            <li>Fisch</li>
+            <li>Cevapcici</li>
+            <li>Borek</li>
+        </ul>
+
+    <h2>Lieblings film</h2> 
+       
+        <ul>
+            <li> Lupin</li>
+            <li> Matrix</li>
+            <li> Troja</li>
+            
+       </ul>
+     
+     <h2>Lieblings music</h2> 
+       
+       <ul>
+           <li>Madonna</li>
+           <li>Celine Dion</li>
+           <li>Abba</li>
+           
+      </ul>
+    
+</body>
+</html>
